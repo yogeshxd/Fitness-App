@@ -5,6 +5,6 @@ Made using Kotlin
 
 SS here:
 
-![apk0](/SS/APk 0.png)
+![apk0](/screenshots/a0.png)
 
-![apk1](/SS/Apk 1.png)
+![apk1](/screenshots/a1.png)
